@@ -1,9 +1,9 @@
-id_alum	nombre	apellido	sexo	grado	nota_promedio	repitente	ditrito_procedencia	telefono
-1	Juan	Quispe	M	Tercero	16	No	V.M.T	966811347
-2	Carlos	Ramos	M	Segundo	12	No	V.E.S	984565144
-3	Carmen	Gonzales	F	Tercero	18	No	S.J.M	948742347
-4	Galvin	Irwin	M	Segundo	16	Si	Miraflores	934883107
-5	Basil	Warren	M	Cuarto	16	Si	Chorrillos	948716248
+id_alum nombre apellido	sexo grado nota_promedio repitente ditrito_procedencia telefono
+1	Juan Quispe M Tercero 16 No V.M.T 966811347
+2	Carlos Ramos M Segundo 12 No V.E.S 984565144
+3	Carmen Gonzales	F	Tercero	18 No S.J.M	948742347
+4	Galvin Irwin M Segundo 16 Si Miraflores 934883107
+5	Basil	Warren M Cuarto 16	Si	Chorrillos 948716248
 6	Tatum	Hayes	F	Tercero	12	No	V.M.T	951401852
 7	Donovan	Wong	M	Quinto	17	No	Barranco	936627504
 8	Curran	Mendoza	F	Tercero	16	No	V.E.S	988312741
@@ -97,5 +97,5 @@ id_alum	nombre	apellido	sexo	grado	nota_promedio	repitente	ditrito_procedencia	t
 96	Howard	Lindsay	M	Tercero	13	No	Surquillo	923667229
 97	Carissa	Giles	M	Tercero	13	No	Miraflores	986586994
 98	Amir	Wiley	M	Sexto	17	Si	V.E.S	966928821
-99	Barry	Townsend	F	Quinto	15	No	S.J.M	945629417
-100	Britanni	Pitts	F	Tercero	15	Si	S.J.M	973476403
+99	Barry Townsend F Quinto 15	No S.J.M 945629417
+100	Britanni Pitts F Tercero	15	Si S.J.M 973476403
